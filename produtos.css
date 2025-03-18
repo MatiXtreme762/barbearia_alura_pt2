@@ -50,6 +50,18 @@ nav a:hover{
     border-radius: 45px;
 }
 
+.produtos li:hover{
+border-color: #4848fa;
+}
+
+.produtos li:active{
+    border-color: #0909b0;
+}
+
+.produtos li:hover h2{
+font-size: 34px;
+}
+
 .produtos h2{
     font-size: 30px;
     font-weight: bold;
