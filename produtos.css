@@ -76,3 +76,15 @@ font-size: 34px;
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer{
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright{
+    color: white;
+    font-size: 22px;
+    margin: 20px auto;
+}
