@@ -103,14 +103,15 @@ body{
 		width: auto;
 	}
 
-h1{
-	text-align:center;
-}
+	h1{
+		text-align:center;
+	}
 
-nav{
-	position: static;
-}
+	nav{
+		position: static;
+	}
 
-.lista-beneficios, .imagem-beneficios{
-	width: 100%;
+	.lista-beneficios, .imagem-beneficios{
+		width: 100%;
+	}
 }
